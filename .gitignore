@@ -1,0 +1,6 @@
+target/
+lib_managed/
+project/plugins/project/
+project/boot/
+src_managed/
+.DS_Store
